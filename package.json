@@ -1,0 +1,12 @@
+{
+    "name": "neto-codespace",
+    "version": "1.0.0",
+    "description": "landing page integrando varios conhecimentos de node, chatbot etc",
+    "main": "index.js",
+    "scripts": {
+      "build": "npx tailwindcss-cli@latest build ./src/css/styles.css -o ./dist/css/styles.min.css"
+    },
+    "author": "Nestor Nunes",
+    "license": "MIT"
+  }
+
